@@ -1,0 +1,3 @@
+docker start container_environment_production_docker
+docker exec -it container_environment_production_docker bash
+
